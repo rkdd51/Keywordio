@@ -1,0 +1,130 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar-blue{
+  background-color:#1b8eed;
+  height:50px; 
+ padding-top: 10px;
+
+}
+
+.navbar-headline{
+  color:#fff;
+  padding-left: 100px;
+  padding-top: 50px;
+  font-size:18px;
+  
+}
+
+.google{
+  position: absolute;
+  margin-left:800px ;
+  margin-top: -30px; 
+  width:150px;
+}
+
+.range{
+  position: absolute;
+  margin-left:1200px;
+  margin-top: -30px;
+  width: 150px;
+}
+
+.main-container{
+  background-color: #fbfbfb;
+  /* background-color: black; */
+  height:auto;
+  width: 100%;
+}
+
+.small-nav{
+
+  position: relative;
+  margin-top:30px;
+  background-color:#fff;
+  width:670px;
+  height:30px;
+  margin-left: 90px;
+  padding-left: 10px;
+
+}
+#second {
+  margin-right:0px;
+}
+
+.row{
+  margin-left: 80px;
+  margin-right: 10px;
+}
+
+.margindiv{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.sidecard{
+  margin-left: 720px;
+  margin-top: -350px;
+}
+
+.smileicon{
+   color:#008037;
+   margin-left: 200px;
+   font-size:20px;
+}
+
+.sadicon{
+  color:#ff5757;
+   margin-left: 200px;
+   font-size:20px;
+}
+
+.straightfaceicon{
+  color:#ff914d;
+   margin-left: 175px;
+   font-size:20px;
+
+}
+
+ .straightfaceicon2{
+    color:#ff914d;
+    margin-left: 120px;
+    font-size:20px;
+    
+ }
+
+ #facebook{
+   position: relative;
+   margin-left: 500px;
+   font-size:10px;
+   color:#5271ff;
+   background-color:#fbfbfb;
+   /* border: #5371ff; */
+   padding:10px;
+   border-radius:2px solid  #5371ff;  
+   border-color: #5371ff;
+ }
+
+ #slack{
+   font-size:10px;
+   padding:10px;
+   background-color:#fff;
+   color:black;
+   
+ }
+
+ #Knowledge{
+   border-color:#38b6ff;
+   color: #38b6ff;
+    font-size:10px;
+   padding:10px;
+   background-color:#fbfbfb;
+ }
+
+ 
+
+
+
